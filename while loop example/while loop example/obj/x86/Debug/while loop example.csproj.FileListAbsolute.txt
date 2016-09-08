@@ -1,0 +1,4 @@
+D:\users\kavirajanv\documents\visual studio 2010\Projects\while loop example\while loop example\bin\Debug\while loop example.exe
+D:\users\kavirajanv\documents\visual studio 2010\Projects\while loop example\while loop example\bin\Debug\while loop example.pdb
+D:\users\kavirajanv\documents\visual studio 2010\Projects\while loop example\while loop example\obj\x86\Debug\while loop example.exe
+D:\users\kavirajanv\documents\visual studio 2010\Projects\while loop example\while loop example\obj\x86\Debug\while loop example.pdb

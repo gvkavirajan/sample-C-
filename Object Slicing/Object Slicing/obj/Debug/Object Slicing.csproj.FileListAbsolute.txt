@@ -1,0 +1,6 @@
+D:\Users\kavirajanv\Documents\Visual Studio 2010\Projects\Object Slicing\Object Slicing\bin\Debug\Object Slicing.exe.config
+D:\Users\kavirajanv\Documents\Visual Studio 2010\Projects\Object Slicing\Object Slicing\obj\Debug\Object Slicing.csprojResolveAssemblyReference.cache
+D:\Users\kavirajanv\Documents\Visual Studio 2010\Projects\Object Slicing\Object Slicing\bin\Debug\Object Slicing.exe
+D:\Users\kavirajanv\Documents\Visual Studio 2010\Projects\Object Slicing\Object Slicing\bin\Debug\Object Slicing.pdb
+D:\Users\kavirajanv\Documents\Visual Studio 2010\Projects\Object Slicing\Object Slicing\obj\Debug\Object Slicing.exe
+D:\Users\kavirajanv\Documents\Visual Studio 2010\Projects\Object Slicing\Object Slicing\obj\Debug\Object Slicing.pdb

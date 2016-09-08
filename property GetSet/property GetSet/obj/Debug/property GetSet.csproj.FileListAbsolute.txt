@@ -1,0 +1,6 @@
+D:\Users\kavirajanv\Documents\Visual Studio 2010\Projects\property GetSet\property GetSet\bin\Debug\property GetSet.exe.config
+D:\Users\kavirajanv\Documents\Visual Studio 2010\Projects\property GetSet\property GetSet\obj\Debug\property GetSet.csprojResolveAssemblyReference.cache
+D:\Users\kavirajanv\Documents\Visual Studio 2010\Projects\property GetSet\property GetSet\bin\Debug\property GetSet.exe
+D:\Users\kavirajanv\Documents\Visual Studio 2010\Projects\property GetSet\property GetSet\bin\Debug\property GetSet.pdb
+D:\Users\kavirajanv\Documents\Visual Studio 2010\Projects\property GetSet\property GetSet\obj\Debug\property GetSet.exe
+D:\Users\kavirajanv\Documents\Visual Studio 2010\Projects\property GetSet\property GetSet\obj\Debug\property GetSet.pdb

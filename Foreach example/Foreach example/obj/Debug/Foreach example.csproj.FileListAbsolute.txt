@@ -1,0 +1,5 @@
+D:\Users\kavirajanv\Documents\Visual Studio 2010\Projects\Foreach example\Foreach example\bin\Debug\Foreach example.exe.config
+D:\Users\kavirajanv\Documents\Visual Studio 2010\Projects\Foreach example\Foreach example\bin\Debug\Foreach example.exe
+D:\Users\kavirajanv\Documents\Visual Studio 2010\Projects\Foreach example\Foreach example\bin\Debug\Foreach example.pdb
+D:\Users\kavirajanv\Documents\Visual Studio 2010\Projects\Foreach example\Foreach example\obj\Debug\Foreach example.exe
+D:\Users\kavirajanv\Documents\Visual Studio 2010\Projects\Foreach example\Foreach example\obj\Debug\Foreach example.pdb

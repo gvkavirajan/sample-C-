@@ -1,0 +1,6 @@
+D:\Users\kavirajanv\Documents\Visual Studio 2010\Projects\Destructor\Destructor\bin\Debug\Destructor.exe.config
+D:\Users\kavirajanv\Documents\Visual Studio 2010\Projects\Destructor\Destructor\obj\Debug\Destructor.csprojResolveAssemblyReference.cache
+D:\Users\kavirajanv\Documents\Visual Studio 2010\Projects\Destructor\Destructor\bin\Debug\Destructor.exe
+D:\Users\kavirajanv\Documents\Visual Studio 2010\Projects\Destructor\Destructor\bin\Debug\Destructor.pdb
+D:\Users\kavirajanv\Documents\Visual Studio 2010\Projects\Destructor\Destructor\obj\Debug\Destructor.exe
+D:\Users\kavirajanv\Documents\Visual Studio 2010\Projects\Destructor\Destructor\obj\Debug\Destructor.pdb

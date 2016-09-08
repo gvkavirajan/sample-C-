@@ -1,0 +1,5 @@
+D:\users\kavirajanv\documents\visual studio 2010\Projects\structure example2\structure example2\bin\Debug\structure example2.exe
+D:\users\kavirajanv\documents\visual studio 2010\Projects\structure example2\structure example2\bin\Debug\structure example2.pdb
+D:\users\kavirajanv\documents\visual studio 2010\Projects\structure example2\structure example2\obj\x86\Debug\structure example2.exe
+D:\users\kavirajanv\documents\visual studio 2010\Projects\structure example2\structure example2\obj\x86\Debug\structure example2.pdb
+D:\Users\kavirajanv\Documents\Visual Studio 2010\Projects\structure example2\structure example2\obj\x86\Debug\structure example2.csprojResolveAssemblyReference.cache

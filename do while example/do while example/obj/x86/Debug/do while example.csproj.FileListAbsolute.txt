@@ -1,0 +1,4 @@
+D:\users\kavirajanv\documents\visual studio 2010\Projects\do while example\do while example\bin\Debug\do while example.exe
+D:\users\kavirajanv\documents\visual studio 2010\Projects\do while example\do while example\bin\Debug\do while example.pdb
+D:\users\kavirajanv\documents\visual studio 2010\Projects\do while example\do while example\obj\x86\Debug\do while example.exe
+D:\users\kavirajanv\documents\visual studio 2010\Projects\do while example\do while example\obj\x86\Debug\do while example.pdb

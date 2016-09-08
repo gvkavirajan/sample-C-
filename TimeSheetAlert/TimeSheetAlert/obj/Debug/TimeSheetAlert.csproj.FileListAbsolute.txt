@@ -1,0 +1,7 @@
+D:\OFS\POC\TimeEntriesAlert\TimeSheetAlert\TimeSheetAlert\bin\Debug\TimeSheetAlert.exe.config
+D:\OFS\POC\TimeEntriesAlert\TimeSheetAlert\TimeSheetAlert\bin\Debug\TimeSheetAlert.exe
+D:\OFS\POC\TimeEntriesAlert\TimeSheetAlert\TimeSheetAlert\bin\Debug\TimeSheetAlert.pdb
+D:\OFS\POC\TimeEntriesAlert\TimeSheetAlert\TimeSheetAlert\obj\Debug\TimeSheetAlert.csprojResolveAssemblyReference.cache
+D:\OFS\POC\TimeEntriesAlert\TimeSheetAlert\TimeSheetAlert\obj\Debug\TimeSheetAlert.exe
+D:\OFS\POC\TimeEntriesAlert\TimeSheetAlert\TimeSheetAlert\obj\Debug\TimeSheetAlert.pdb
+D:\OFS\POC\TimeEntriesAlert\TimeSheetAlert\TimeSheetAlert\bin\Debug\Mail Template\MailTemplate.html

@@ -1,0 +1,6 @@
+D:\Users\kavirajanv\Documents\Visual Studio 2010\Projects\oops_ClassObject\oops_ClassObject\bin\Debug\oops_ClassObject.exe.config
+D:\Users\kavirajanv\Documents\Visual Studio 2010\Projects\oops_ClassObject\oops_ClassObject\obj\Debug\oops_ClassObject.csprojResolveAssemblyReference.cache
+D:\Users\kavirajanv\Documents\Visual Studio 2010\Projects\oops_ClassObject\oops_ClassObject\bin\Debug\oops_ClassObject.exe
+D:\Users\kavirajanv\Documents\Visual Studio 2010\Projects\oops_ClassObject\oops_ClassObject\bin\Debug\oops_ClassObject.pdb
+D:\Users\kavirajanv\Documents\Visual Studio 2010\Projects\oops_ClassObject\oops_ClassObject\obj\Debug\oops_ClassObject.exe
+D:\Users\kavirajanv\Documents\Visual Studio 2010\Projects\oops_ClassObject\oops_ClassObject\obj\Debug\oops_ClassObject.pdb

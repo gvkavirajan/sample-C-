@@ -1,0 +1,2 @@
+D:\Users\kavirajanv\Documents\Visual Studio 2010\Projects\File Handling Task\File Handling Task\bin\Debug\File Handling Task.exe.config
+D:\Users\kavirajanv\Documents\Visual Studio 2010\Projects\File Handling Task\File Handling Task\obj\Debug\File Handling Task.csprojResolveAssemblyReference.cache

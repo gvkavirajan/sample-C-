@@ -1,0 +1,4 @@
+D:\users\kavirajanv\documents\visual studio 2010\Projects\structure example\structure example\bin\Debug\structure example.exe
+D:\users\kavirajanv\documents\visual studio 2010\Projects\structure example\structure example\bin\Debug\structure example.pdb
+D:\users\kavirajanv\documents\visual studio 2010\Projects\structure example\structure example\obj\x86\Debug\structure example.exe
+D:\users\kavirajanv\documents\visual studio 2010\Projects\structure example\structure example\obj\x86\Debug\structure example.pdb

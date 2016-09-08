@@ -1,0 +1,6 @@
+D:\Users\kavirajanv\Documents\Visual Studio 2010\Projects\Automobile_TaskNew\Automobile_TaskNew\bin\Debug\Automobile_TaskNew.exe.config
+D:\Users\kavirajanv\Documents\Visual Studio 2010\Projects\Automobile_TaskNew\Automobile_TaskNew\bin\Debug\Automobile_TaskNew.exe
+D:\Users\kavirajanv\Documents\Visual Studio 2010\Projects\Automobile_TaskNew\Automobile_TaskNew\bin\Debug\Automobile_TaskNew.pdb
+D:\Users\kavirajanv\Documents\Visual Studio 2010\Projects\Automobile_TaskNew\Automobile_TaskNew\obj\Debug\Automobile_TaskNew.csprojResolveAssemblyReference.cache
+D:\Users\kavirajanv\Documents\Visual Studio 2010\Projects\Automobile_TaskNew\Automobile_TaskNew\obj\Debug\Automobile_TaskNew.exe
+D:\Users\kavirajanv\Documents\Visual Studio 2010\Projects\Automobile_TaskNew\Automobile_TaskNew\obj\Debug\Automobile_TaskNew.pdb
